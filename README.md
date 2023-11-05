@@ -1,2 +1,2 @@
-# outlook_ai
-Process outlook emails
+# GDK Email Assistant
+Assist GDK with emails
